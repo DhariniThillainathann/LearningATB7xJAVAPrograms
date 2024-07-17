@@ -2,7 +2,7 @@
 
 Author - Dharini Thillainathan
 
-This Repo Contains the source code for the Exercise the I have done the ATB7x Batch
+This Repo Contains the source code for the Exercise that I have done the ATB7x Batch
 
 -Core JAVA
 
